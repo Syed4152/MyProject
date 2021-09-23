@@ -1,0 +1,6 @@
+21:02:00.545 [TestNG-tests-2] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x8db544e012b9446b
+21:02:00.674 [TestNG-tests-3] INFO  resources.base - driver is initialized
+21:02:13.005 [TestNG-tests-1] INFO  resources.base - Successfully landed on HomePage
+21:02:13.921 [TestNG-tests-2] INFO  resources.base - Successfully landed on HomePage
+21:02:15.519 [TestNG-tests-3] INFO  resources.base - Successfully landed on HomePage
+21:02:17.695 [TestNG-tests-2] INFO  resources.base - Inavalid Test

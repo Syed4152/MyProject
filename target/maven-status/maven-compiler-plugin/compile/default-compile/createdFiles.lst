@@ -1,0 +1,7 @@
+PageObjects\ForgotPassword.class
+PageObjects\LoginPage.class
+PageObjects\LandingPage.class
+PageObjects\RegClass.class
+resources\base.class
+PageObjects\NavigationBar.class
+resources\ExtentReport.class

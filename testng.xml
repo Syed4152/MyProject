@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+<listeners>
+<listener  class-name = "Academy.Listeners" />
+
+
+</listeners>
+
+  <test name="Validating Nav Bar">
+    <classes>
+      <class name="Academy.ValidatingTitleNavBarTest"/>
+      </classes>
+      </test>
+      
+      <test name="Data Provider">
+    <classes>
+      
+      <class name="Academy.HomePageTest"/>
+      </classes>
+      </test>
+      
+      
+      
+      <test name="Title Validation">
+    <classes> 
+      <class name="Academy.ValidatingTitleTest"/>
+      </classes>
+      </test>
+      
+      
+   <!-- Test -->
+</suite> <!-- Suite -->
